@@ -1,18 +1,27 @@
 body {
-    background-color: lawngreen;
+    background-image: url("bg.jpg");
 }
 #mainPic {
 float: left;
 }
 .col-md-8 {
-    background-color: aqua;
+    background-image: url("bgfoc.jpg");
 }
 img {
     padding-right: 20px;
 }
-.navbar-brand {
-color: hotpink;
-}
 .footer {
-    background-color: lightgray;
+    background-color: rgb(6, 26, 56);
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
+.navbar-expand-lg {
+    background-color: rgb(6, 26, 56);
+}
+a .nav-link {
+    color: white;
 }
